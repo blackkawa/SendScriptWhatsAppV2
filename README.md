@@ -1,10 +1,10 @@
 # SendScriptWhatsApp V2 
 
-Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do WhatsApp
+Código para enviar a letra inteira de Velha Infância do Tribalistas para a sua amada no WhatsApp
 
 ## Utilização
 
-Abra [shrekSendScriptV2-br.js](https://github.com/alestanalves/SendScriptWhatsAppV2/blob/main/SendScriptWhatsAppV2-Shrek-PT-BR.js)
+Abra [TribalistasSendScriptV2-br.js]
 
 Copie todo o conteúdo 
 
@@ -16,4 +16,4 @@ No WhatsApp Web abra o console do Browser
 
 Pronto!
 
-Atualizado do conteudo original em: [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp)
+Baseado na versão: https://github.com/alestanalves/SendScriptWhatsAppV2
