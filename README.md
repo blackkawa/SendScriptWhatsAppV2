@@ -4,7 +4,7 @@ Código para enviar a letra inteira de Velha Infância do Tribalistas para a sua
 
 ## Utilização
 
-Abra [TribalistasSendScriptV2-br.js]
+Abra [TribalistasSendScriptV2-br.js] https://github.com/blackkawa/SendScriptWhatsAppV2/blob/main/TribalistasSendScriptV2-br.js
 
 Copie todo o conteúdo 
 
